@@ -1,0 +1,14 @@
+[package]
+name = "game"
+version = "0.1.0"
+authors = ["Grzegorz G. <tengwar@users.noreply.github.com>"]
+
+[dependencies]
+# Entity Component System
+specs = "0.10"
+specs-derive = "0.1"
+
+# 2D graphics, audio, fonts, input, etc.
+ggez = "0.4" # Requires SDL development libs, see Rust-SDL2's docs:
+             # https://github.com/Rust-SDL2/rust-sdl2#requirements
+#
