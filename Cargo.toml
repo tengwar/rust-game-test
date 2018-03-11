@@ -11,4 +11,3 @@ specs-derive = "0.1"
 # 2D graphics, audio, fonts, input, etc.
 ggez = "0.4" # Requires SDL development libs, see Rust-SDL2's docs:
              # https://github.com/Rust-SDL2/rust-sdl2#requirements
-#
